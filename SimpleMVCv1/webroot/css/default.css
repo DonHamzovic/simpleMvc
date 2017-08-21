@@ -1,0 +1,25 @@
+
+
+body {
+
+    background:  skyblue;
+   
+}
+
+#header {
+     padding:  20px;
+     background: gold;
+
+
+}
+
+#content {
+    padding: 20px;
+    background: #fff;
+
+}
+
+#footer {
+    background:  silver;
+    padding: 20px;
+}
